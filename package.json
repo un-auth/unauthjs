@@ -1,0 +1,12 @@
+{
+  "name": "unauthjs",
+  "version": "0.1.0",
+  "description": "A university-federated OAuth client integration for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "un-auth",
+  "git": "https://github.com/un-auth/unauthjs.git",
+  "license": "MIT"
+}
